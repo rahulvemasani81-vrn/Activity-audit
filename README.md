@@ -3,8 +3,10 @@
 EXPERIMENT 4
 ~~~
 ASSET-ORIENTED RISK ASSESSMENT OF STORAGE ASSETS IN AW
+~~~
 Aim
 To identify storage assets in AWS S3, identify possible vulnerabilities and threats, and assess their likelihood, impact, and risk level.
+~~~
 Software / Cloud Services Required
 AWS Account
 Microsoft Azure Account
