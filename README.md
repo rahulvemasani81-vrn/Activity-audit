@@ -47,7 +47,7 @@ OFF → Potential public-access risk
 
 <img width="1600" height="720" alt="WhatsApp Image 2026-08-26 at 8 37 08 PM" src="https://github.com/user-attachments/assets/4fc0e72f-dd67-4b6a-b8ce-f965ba7e654f" />
 ~~~
-
+~~~
 Step 4: Check Bucket Versioning
 Select the Properties tab.
 Locate Bucket Versioning.
@@ -58,6 +58,7 @@ Security Purpose
 Versioning helps recover previous versions of objects after accidental deletion or modification.
 ~~~
 ~~~
+
 
 <img width="1600" height="499" alt="WhatsApp Image 2026-08-26 at 8 45 19 PM" src="https://github.com/user-attachments/assets/c3ee9a6f-3f28-4e4d-85ee-5121688992bc" />
 ~~~
