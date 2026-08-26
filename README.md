@@ -57,8 +57,10 @@ Disabled
 Security Purpose
 Versioning helps recover previous versions of objects after accidental deletion or modification.
 ~~~
+~~~
 
 <img width="1600" height="499" alt="WhatsApp Image 2026-08-26 at 8 45 19 PM" src="https://github.com/user-attachments/assets/c3ee9a6f-3f28-4e4d-85ee-5121688992bc" />
+~~~
 ~~~
 
 Step 5: Check Default Encryption
