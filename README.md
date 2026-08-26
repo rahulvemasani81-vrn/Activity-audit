@@ -57,12 +57,12 @@ Disabled
 Security Purpose
 Versioning helps recover previous versions of objects after accidental deletion or modification.
 ~~~
-~~~
+
 
 
 <img width="1600" height="499" alt="WhatsApp Image 2026-08-26 at 8 45 19 PM" src="https://github.com/user-attachments/assets/c3ee9a6f-3f28-4e4d-85ee-5121688992bc" />
 ~~~
-~~~
+
 
 Step 5: Check Default Encryption
 Stay in the Properties tab.
@@ -87,10 +87,10 @@ Record
 Policy exists
 No policy
 Note: A missing bucket policy is not automatically a vulnerability. Access may be controlled through IAM and other AWS security mechanisms.
-~~~
+
 
 <img width="1600" height="735" alt="image" src="https://github.com/user-attachments/assets/da8e2d6e-9739-4e0c-86c2-0909a1cd32bb" />
-~~~
+
 
 Step 7: Check Object Ownership and ACL
 In Permissions, locate Object Ownership.
@@ -104,7 +104,7 @@ This means:
 ACLs are disabled.
 Objects are owned by the bucket owner.
 Access is controlled using policies.
-~~~
+
 
 <img width="1600" height="684" alt="image" src="https://github.com/user-attachments/assets/fd9dcea6-c172-4374-8144-f64ac6a4b6df" />
 
