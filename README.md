@@ -1,5 +1,7 @@
 # Activity-audit
+~~~
 EXPERIMENT 4
+~~~
 ASSET-ORIENTED RISK ASSESSMENT OF STORAGE ASSETS IN AW
 Aim
 To identify storage assets in AWS S3, identify possible vulnerabilities and threats, and assess their likelihood, impact, and risk level.
@@ -86,7 +88,8 @@ Students must use their actual configuration while preparing the final table.
 
 Result
 AWS S3 security configurations were analyzed and potential risks were identified.
-Risk levels were assessed and suitable security measures were recommended. 
+Risk levels were assessed and suitable security measures were recommended.
+
 
 
 
