@@ -110,8 +110,7 @@ The second event selected was:
 
 This event is associated with **Amazon EC2** and represents automated creation of the default VPC infrastructure.
 
-<img width="1907" height="942" alt="image" src="https://github.com/user-attachments/assets/6a12287f-aa41-4aec-87b4-fad3b039a978" />
-
+<img width="1035" height="357" alt="image" src="https://github.com/user-attachments/assets/d0b31ef6-6409-4ea3-a722-99c0ef6922cb" />
 
 ---
 
