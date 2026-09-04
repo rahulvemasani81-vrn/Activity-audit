@@ -24,8 +24,9 @@ To audit and monitor cloud activity in AWS using AWS CloudTrail by viewing and a
 2. Sign in using your AWS account.
 3. In the AWS search bar, type **CloudTrail**.
 4. Select **AWS CloudTrail**.
+<img width="960" height="466" alt="image" src="https://github.com/user-attachments/assets/a0c41fa5-5628-40ab-82dd-3c0e96072451" />
 
-<img width="1904" height="935" alt="image" src="https://github.com/user-attachments/assets/b7390736-44c2-4c1e-8577-6b2d7f3f0d3f" />
+
 
 
 ## Step 2: Open Event History
@@ -42,8 +43,8 @@ The Event History page displays information such as:
 * Event source
 * Resource type
 * Resource name
+<img width="1600" height="730" alt="image" src="https://github.com/user-attachments/assets/10040592-dc3b-444c-8e1e-6a3bd4478928" />
 
-<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/8f7876e1-024c-432a-bd60-c55fa1aac25c" />
 
 ---
 
@@ -59,7 +60,8 @@ The event selected was:
 
 The event details were opened and analyzed.
 
-<img width="1904" height="935" alt="image" src="https://github.com/user-attachments/assets/586eaa12-9aba-45b2-87d1-b492e05637e9" />
+<img width="1035" height="357" alt="image" src="https://github.com/user-attachments/assets/d0b31ef6-6409-4ea3-a722-99c0ef6922cb" />
+
 
 
 ---
